@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luis-carlos
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://www.linkedin.com/in/lcgv/
 
